@@ -1,38 +1,33 @@
 class Solution {
 public:
-    vector<vector<int>> findMatrix(vector<int>& nums) 
-    {
-        map<int,int>mp;
+    vector<vector<int>> findMatrix(vector<int>& nums) {
+        map<int, int>mp;
+        int cnt = 0;
         for(int i=0;i<nums.size();i++)
         {
-            if(mp.find(nums[i])!=mp.end())
-                mp[nums[i]]++;
-            else
-                mp.insert(make_pair(nums[i],1));
+            mp[nums[i]]++;
+            cnt = max(cnt, mp[nums[i]]);
         }
-        vector<vector<int>> matrix;
-        map<int,int>::iterator it;
-        vector<int>temp;
-        int x=0;
-        while(mp.size()>0)
+        vector<vector<int>>ans;
+        int row = 0;
+        for(int i=0;i<cnt;i++)
         {
-            for(it=mp.begin();it!=mp.end();it++)
-            {
-                if(it->second!=0)
-                {temp.push_back(it->first);
-                 it->second--;  }
-            }
-
-            for(it=mp.begin();it!=mp.end();it++)
-            {
-                if(it->second<=0)
-                    mp.erase(it);
-            }
-            //cout<<mp.size()<<"x ";
-            matrix.push_back(temp);
-            temp.clear();
+            vector<int>temp;
+            ans.push_back(temp);
         }
-        return matrix;
+        int ind = 0;
+        int col = 0;
+        for(auto it:mp)
+        {
+            col = 0;
+            while(it.second != 0)
+            {
+                ans[col].push_back(it.first);
+                it.second--;
+                col++;
+            }
         
+        }
+        return ans;
     }
 };
