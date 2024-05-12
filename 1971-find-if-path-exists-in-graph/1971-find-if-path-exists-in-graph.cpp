@@ -14,7 +14,7 @@ public:
         vector<bool> visited(n, false); 
         return dfs(adjList, visited, source, destination);
     }
-    bool dfs(vector<vector<int>>& adjList, vector<bool>& visited, int current, int                 destination) 
+    bool dfs(vector<vector<int>>& adjList, vector<bool>& visited, int current, int destination) 
     {
         if (current == destination) 
         return true;
