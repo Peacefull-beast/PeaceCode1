@@ -8,13 +8,8 @@ public:
             mp[nums[i]]++;
             cnt = max(cnt, mp[nums[i]]);
         }
-        vector<vector<int>>ans;
+        vector<vector<int>>ans(cnt);
         int row = 0;
-        for(int i=0;i<cnt;i++)
-        {
-            vector<int>temp;
-            ans.push_back(temp);
-        }
         int ind = 0;
         int col = 0;
         for(auto it:mp)
