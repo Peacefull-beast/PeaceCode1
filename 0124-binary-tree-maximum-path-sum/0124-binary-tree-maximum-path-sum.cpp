@@ -11,28 +11,22 @@
  */
 class Solution {
 public:
-    int findMaxPathSum(TreeNode* node, int &sum) {
-        if (node == nullptr) 
+    int solve(TreeNode* root, int &sum)
+    {
+        if(root == NULL)
             return 0;
-
         
-        int leftMax  = max(0, findMaxPathSum(node->left,  sum)); 
-        int rightMax = max(0, findMaxPathSum(node->right, sum));
-
+        int left = max(0, solve(root->left, sum));
+        int right = max(0,solve(root->right, sum));
         
-        int currentValue = node->val;
-
+        sum = max(sum, left + right + root->val);
         
-        sum = max(sum, leftMax + rightMax + node->val);
-
-        
-        return max(leftMax, rightMax) + node->val; 
+        return max(left, right) + root->val;
     }
-
     int maxPathSum(TreeNode* root) 
     {
-        int sum = INT_MIN;  
-        findMaxPathSum(root, sum);  
-        return sum;  
+        int sum = INT_MIN;
+        solve(root, sum);
+        return sum;
     }
 };
