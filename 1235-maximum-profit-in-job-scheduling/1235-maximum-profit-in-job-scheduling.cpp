@@ -45,8 +45,7 @@ public:
         // Sort jobs by start time
         sort(jobs.begin(), jobs.end());
 
-        // Initialize dp array with -1
-        //vector<vector<int>> dp(n, vector<int>(n + 1, -1));
+
         for(int i = 0; i<n; i++)
             startTime[i] = jobs[i][0];
         vector<int> dp(n, -1);
