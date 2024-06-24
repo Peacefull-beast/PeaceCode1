@@ -1,24 +1,7 @@
 
 class Solution {
 public:
-    int answer(vector<vector<int>>& job, int ind, int prev_end, vector<vector<int>>& dp) {
-        if (ind >= job.size()) {
-            return 0;
-        }
 
-        if (dp[ind][prev_end + 1] != -1) {
-            return dp[ind][prev_end + 1];
-        }
-
-        int inc = INT_MIN;
-        if (prev_end == -1 || job[ind][0] >= job[prev_end][1]) {
-            inc = job[ind][2] + answer(job, ind + 1, ind, dp);
-        }
-
-        int exc = answer(job, ind + 1, prev_end, dp);
-        return dp[ind][prev_end + 1] = max(inc, exc);
-    }
-    
     
     int answ(vector<vector<int>>& jobs, vector<int>& srt, int n, int ind, vector<int> &dp)
     {
