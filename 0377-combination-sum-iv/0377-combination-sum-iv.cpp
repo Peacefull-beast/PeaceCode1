@@ -1,25 +1,27 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int target, vector<int>& dp) {
-        if (target == 0) 
+    int solve(vector<int>& nums, int tar, int ind, vector<vector<int>>&dp)
+    {
+        if(tar == 0)
             return 1;
         
-        if (target < 0)
+        if(ind >= nums.size() || tar < 0)
             return 0;
+            
+        if(dp[ind][tar] != -1)
+            return dp[ind][tar];
         
-        if (dp[target] != -1)
-            return dp[target];
-        
-        int result = 0;
-        for (int i = 0; i < nums.size(); i++) {
-            result += solve(nums, target - nums[i], dp);
-        }
-        
-        return dp[target] = result;
+        int pick = solve(nums, tar-nums[ind], 0, dp);
+        int npick = solve(nums, tar, ind+1, dp);
+        return dp[ind][tar] = (pick+npick);
     }
-    
-    int combinationSum4(vector<int>& nums, int target) {
-        vector<int> dp(target + 1, -1);
-        return solve(nums, target, dp);
+    int combinationSum4(vector<int>& nums, int target) 
+    {
+        vector<vector<int>>dp(nums.size(), vector<int>(target+1, -1));
+        return  solve(nums, target, 0, dp);  
     }
 };
+
+
+
+
