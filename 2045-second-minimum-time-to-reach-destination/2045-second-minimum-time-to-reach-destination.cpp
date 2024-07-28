@@ -1,0 +1,62 @@
+class Solution {
+public:
+    #define P pair<int,int>
+    int secondMinimum(int n, vector<vector<int>>& edges, int time, int change) 
+    {
+        unordered_map<int, vector<int>>mp;
+        for(auto e:edges)
+        {
+            int u = e[0];
+            int v = e[1];
+            
+            mp[u].push_back(v);
+            mp[v].push_back(u);
+        }
+        
+        vector<int>d1(n+1, INT_MAX);
+        vector<int>d2(n+1, INT_MAX);
+        
+        priority_queue<P, vector<P>, greater<P>> pq;
+        
+        pq.push({0,1}); //dist, source
+        
+        d1[1] = 0;
+        
+        while(!pq.empty())
+        {
+            int tp = pq.top().first;
+            int node = pq.top().second;
+            
+            pq.pop();
+            
+            if(node == n && d2[n] != INT_MAX)
+                return d2[n];
+            
+            
+            int div = tp/change;
+            
+            if(div%2 == 1)
+                tp = change*(div+1);
+            
+            
+            for(auto nbr:mp[node])
+            {
+                if(d1[nbr] > tp+time)
+                {
+                    d2[nbr] = d1[nbr];
+                    d1[nbr] = tp+time;
+                    pq.push({tp+time, nbr});
+                }
+                else if(d2[nbr] > tp + time && d1[nbr] != tp+time)
+                {
+                    d2[nbr] = tp+time;
+                    pq.push({tp+time, nbr});
+                }   
+            }
+        }
+        
+        return -1;
+            
+            
+    }
+};
