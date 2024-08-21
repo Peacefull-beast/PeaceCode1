@@ -2,24 +2,18 @@ class Solution {
 public:
     vector<int> resultsArray(vector<int>& nums, int k) 
     {
-        vector<int> vec;
-        
-        for(int i = 0; i <= nums.size() - k; i++) 
+        vector<int>ans;
+        int c = 0;
+        for(int i=0; i<nums.size(); i++)
         {
-            bool f = true;
-            for(int j = i; j < i + k - 1; j++) 
-            {
-                if(nums[j]+1 != nums[j + 1])
-                {
-                    f = false;
-                    break;
-                }
-            }
-            if(f) 
-                vec.push_back(nums[i + k - 1]);
-            else vec.push_back(-1);
+            if(i && nums[i] == nums[i-1]+1)
+                c++;
+            else
+                c=1;
+            if(i+1 >= k)
+                ans.push_back(c >= k ? nums[i] : -1);
         }
-        return vec;
+        return ans;
         
         
     }
