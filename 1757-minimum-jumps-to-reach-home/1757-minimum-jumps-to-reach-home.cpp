@@ -1,10 +1,3 @@
-#include <vector>
-#include <unordered_set>
-#include <queue>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
 public:
     int minimumJumps(vector<int>& forbidden, int a, int b, int x) {
