@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
 ## Tree
 |  |
 | ------- |
@@ -124,4 +125,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
