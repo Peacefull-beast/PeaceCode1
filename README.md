@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0983-validate-stack-sequences) |
+| [1219-longest-well-performing-interval](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1219-longest-well-performing-interval) |
 ## Tree
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0983-validate-stack-sequences) |
+| [1219-longest-well-performing-interval](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1219-longest-well-performing-interval) |
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1876-map-of-highest-peak](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1876-map-of-highest-peak) |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0508-most-frequent-subtree-sum) |
+| [1219-longest-well-performing-interval](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1219-longest-well-performing-interval) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2118-maximum-earnings-from-taxi) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0739-daily-temperatures) |
+| [1219-longest-well-performing-interval](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1219-longest-well-performing-interval) |
 ## Simulation
 |  |
 | ------- |
@@ -169,4 +173,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
+## Prefix Sum
+|  |
+| ------- |
+| [1219-longest-well-performing-interval](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1219-longest-well-performing-interval) |
 <!---LeetCode Topics End-->
