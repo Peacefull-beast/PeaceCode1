@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
+| [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0983-validate-stack-sequences) |
 ## Tree
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2118-maximum-earnings-from-taxi) |
 ## Dynamic Programming
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0983-validate-stack-sequences) |
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
@@ -156,9 +159,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0983-validate-stack-sequences) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
