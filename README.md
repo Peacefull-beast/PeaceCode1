@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0322-coin-change](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0433-minimum-genetic-mutation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0433-minimum-genetic-mutation) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1876-map-of-highest-peak](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1876-map-of-highest-peak) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0433-minimum-genetic-mutation) |
 | [0508-most-frequent-subtree-sum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0508-most-frequent-subtree-sum) |
 | [1219-longest-well-performing-interval](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1219-longest-well-performing-interval) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2118-maximum-earnings-from-taxi) |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
+| [0433-minimum-genetic-mutation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0433-minimum-genetic-mutation) |
 ## Math
 |  |
 | ------- |
