@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0508-most-frequent-subtree-sum) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0971-shortest-bridge](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0971-shortest-bridge) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2035-count-sub-islands](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2035-count-sub-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1117-as-far-from-land-as-possible](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1117-as-far-from-land-as-possible) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1876-map-of-highest-peak](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2035-count-sub-islands) |
