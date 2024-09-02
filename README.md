@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0508-most-frequent-subtree-sum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0508-most-frequent-subtree-sum) |
 | [0871-keys-and-rooms](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0871-keys-and-rooms) |
+| [0971-shortest-bridge](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0971-shortest-bridge) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2035-count-sub-islands) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0433-minimum-genetic-mutation) |
 | [0871-keys-and-rooms](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1117-as-far-from-land-as-possible) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0739-daily-temperatures) |
 | [0945-snakes-and-ladders](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0971-shortest-bridge) |
 | [0983-validate-stack-sequences](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0983-validate-stack-sequences) |
 | [1117-as-far-from-land-as-possible](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1117-as-far-from-land-as-possible) |
 | [1219-longest-well-performing-interval](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1219-longest-well-performing-interval) |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0971-shortest-bridge) |
 | [1117-as-far-from-land-as-possible](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1117-as-far-from-land-as-possible) |
 | [1876-map-of-highest-peak](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2035-count-sub-islands) |
