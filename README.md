@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2035-count-sub-islands) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2118-maximum-earnings-from-taxi) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2155-find-missing-observations) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2183-minimum-operations-to-convert-number) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2586-longest-square-streak-in-an-array) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
+| [2155-find-missing-observations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2155-find-missing-observations) |
 ## Ordered Set
 |  |
 | ------- |
