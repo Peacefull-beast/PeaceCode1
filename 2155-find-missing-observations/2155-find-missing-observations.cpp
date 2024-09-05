@@ -29,12 +29,6 @@ public:
             sum += num;
 
         int nx = mean*(n+m) - sum;
-
-
-        if(nx > 6*n)
-        return {};
-
-        else
         return constructArray(n, nx);
     }
 };
