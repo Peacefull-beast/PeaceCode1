@@ -10,10 +10,8 @@ public:
         int ans = 0;
         while(l < r)
         {
-            if(height[l] > lmax)
-                lmax = max(lmax, height[l]);
-            if(height[r] > rmax)
-                rmax = max(rmax, height[r]);
+            lmax = max(lmax, height[l]);
+            rmax = max(rmax, height[r]);
             if(lmax < rmax)
             {
                 ans+=lmax-height[l];
