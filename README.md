@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
 ## Topological Sort
 |  |
