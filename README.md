@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0739-daily-temperatures) |
+| [0879-maximize-distance-to-closest-person](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0879-maximize-distance-to-closest-person) |
 | [0906-walking-robot-simulation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0906-walking-robot-simulation) |
 | [0945-snakes-and-ladders](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0971-shortest-bridge) |
