@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0042-trapping-rain-water) |
+| [0204-count-primes](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
 | [2155-find-missing-observations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2155-find-missing-observations) |
 ## Recursion
@@ -270,4 +272,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
