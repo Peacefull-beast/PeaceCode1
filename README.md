@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0983-validate-stack-sequences) |
 | [1219-longest-well-performing-interval](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1219-longest-well-performing-interval) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0725-split-linked-list-in-parts](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1484-linked-list-in-binary-tree) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0042-trapping-rain-water) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
