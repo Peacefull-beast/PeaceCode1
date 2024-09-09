@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0621-task-scheduler](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0621-task-scheduler) |
 | [1952-minimum-sideway-jumps](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1952-minimum-sideway-jumps) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Linked List
 |  |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
 | [0433-minimum-genetic-mutation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0433-minimum-genetic-mutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Math
 |  |
 | ------- |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0204-count-primes) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Number Theory
 |  |
 | ------- |
