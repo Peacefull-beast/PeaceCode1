@@ -7,10 +7,7 @@ public:
         int ans = 0;
         while(m1 != 0)
         {
-            int p1 = m1 & 1;
-            int p2 = m2 & 1;
-
-            if(p1 != p2)
+            if((m1 & 1) != (m2 & 1))
             ans++;
 
             m1 = m1 >> 1;
