@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0042-trapping-rain-water) |
+| [0128-longest-consecutive-sequence](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0128-longest-consecutive-sequence) |
 | [2035-count-sub-islands](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2035-count-sub-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0128-longest-consecutive-sequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0433-minimum-genetic-mutation) |
 | [0508-most-frequent-subtree-sum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0508-most-frequent-subtree-sum) |
 | [0621-task-scheduler](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0621-task-scheduler) |
