@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
+| [0539-minimum-time-difference](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0739-daily-temperatures) |
 | [0879-maximize-distance-to-closest-person](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0879-maximize-distance-to-closest-person) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0621-task-scheduler) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2118-maximum-earnings-from-taxi) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
 | [0433-minimum-genetic-mutation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0433-minimum-genetic-mutation) |
+| [0539-minimum-time-difference](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
+| [0539-minimum-time-difference](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
