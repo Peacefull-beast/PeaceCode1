@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0042-trapping-rain-water) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1117-as-far-from-land-as-possible) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Sorting
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0433-minimum-genetic-mutation) |
 | [0539-minimum-time-difference](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -269,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0241-different-ways-to-add-parentheses) |
 ## Topological Sort
 |  |
 | ------- |
