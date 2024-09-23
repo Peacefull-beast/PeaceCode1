@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1952-minimum-sideway-jumps](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1952-minimum-sideway-jumps) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2118-maximum-earnings-from-taxi) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2586-longest-square-streak-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2755-extra-characters-in-a-string) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2483-task-scheduler-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2483-task-scheduler-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2586-longest-square-streak-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2755-extra-characters-in-a-string) |
 | [3330-modify-the-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3330-modify-the-matrix) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2483-task-scheduler-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2483-task-scheduler-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2586-longest-square-streak-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2755-extra-characters-in-a-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2755-extra-characters-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -371,4 +375,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
