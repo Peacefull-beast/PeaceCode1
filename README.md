@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2331-intersection-of-multiple-arrays](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2483-task-scheduler-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2483-task-scheduler-ii) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2755-extra-characters-in-a-string) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0621-task-scheduler) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2331-intersection-of-multiple-arrays) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -378,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
