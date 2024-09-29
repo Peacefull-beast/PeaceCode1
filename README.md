@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0859-design-circular-deque) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0133-clone-graph) |
+| [0432-all-oone-data-structure](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0433-minimum-genetic-mutation) |
 | [0508-most-frequent-subtree-sum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0508-most-frequent-subtree-sum) |
 | [0621-task-scheduler](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0621-task-scheduler) |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0432-all-oone-data-structure](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1484-linked-list-in-binary-tree) |
@@ -405,4 +408,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
