@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0042-trapping-rain-water) |
+| [0119-pascals-triangle-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0119-pascals-triangle-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0068-text-justification) |
+| [0119-pascals-triangle-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0204-count-primes) |
