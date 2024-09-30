@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0983-validate-stack-sequences) |
 | [1219-longest-well-performing-interval](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1219-longest-well-performing-interval) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0859-design-circular-deque) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Array
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-longest-well-performing-interval](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1219-longest-well-performing-interval) |
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1786-count-the-number-of-consistent-strings) |
