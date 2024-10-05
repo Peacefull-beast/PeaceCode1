@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0433-minimum-genetic-mutation) |
 | [0508-most-frequent-subtree-sum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0508-most-frequent-subtree-sum) |
+| [0567-permutation-in-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0621-task-scheduler) |
 | [0906-walking-robot-simulation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0906-walking-robot-simulation) |
 | [1219-longest-well-performing-interval](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1219-longest-well-performing-interval) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0241-different-ways-to-add-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0433-minimum-genetic-mutation) |
 | [0539-minimum-time-difference](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0567-permutation-in-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0567-permutation-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Enumeration
 |  |
@@ -373,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0567-permutation-in-string) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Bit Manipulation
 |  |
