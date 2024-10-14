@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2586-longest-square-streak-in-an-array) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3330-modify-the-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3330-modify-the-matrix) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0621-task-scheduler) |
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Shortest Path
 |  |
 | ------- |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1952-minimum-sideway-jumps](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1952-minimum-sideway-jumps) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Linked List
 |  |
