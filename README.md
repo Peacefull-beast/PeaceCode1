@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -200,10 +203,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -241,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [3330-modify-the-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3330-modify-the-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
