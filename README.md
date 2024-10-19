@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1117-as-far-from-land-as-possible](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1117-as-far-from-land-as-possible) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1511-count-number-of-teams](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1511-count-number-of-teams) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1952-minimum-sideway-jumps](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1952-minimum-sideway-jumps) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2118-maximum-earnings-from-taxi) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1511-count-number-of-teams](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1511-count-number-of-teams) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0731-my-calendar-ii) |
+| [1511-count-number-of-teams](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1511-count-number-of-teams) |
 ## Queue
 |  |
 | ------- |
@@ -447,4 +450,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0432-all-oone-data-structure) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
