@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3588-count-the-number-of-winning-sequences](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3588-count-the-number-of-winning-sequences) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3588-count-the-number-of-winning-sequences](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3588-count-the-number-of-winning-sequences) |
 ## Math
 |  |
 | ------- |
