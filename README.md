@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2483-task-scheduler-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2483-task-scheduler-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2118-maximum-earnings-from-taxi](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2118-maximum-earnings-from-taxi) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2331-intersection-of-multiple-arrays) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1952-minimum-sideway-jumps](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1952-minimum-sideway-jumps) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Linked List
@@ -400,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2228-watering-plants-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Enumeration
 |  |
 | ------- |
