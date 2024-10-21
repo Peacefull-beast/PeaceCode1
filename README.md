@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1722-throne-inheritance](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1722-throne-inheritance) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2035-count-sub-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1876-map-of-highest-peak](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2035-count-sub-islands) |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0204-count-primes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Number Theory
 |  |
