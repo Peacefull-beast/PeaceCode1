@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0508-most-frequent-subtree-sum) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0988-flip-equivalent-binary-trees) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1484-linked-list-in-binary-tree) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0508-most-frequent-subtree-sum) |
 | [0871-keys-and-rooms](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0971-shortest-bridge) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0988-flip-equivalent-binary-trees) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1484-linked-list-in-binary-tree) |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0508-most-frequent-subtree-sum) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0988-flip-equivalent-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
