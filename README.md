@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0432-all-oone-data-structure](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0432-all-oone-data-structure) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0241-different-ways-to-add-parentheses) |
