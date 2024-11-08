@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3451-string-compression-iii) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3588-count-the-number-of-winning-sequences) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Math
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2232-adding-spaces-to-a-string) |
 | [2483-task-scheduler-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2483-task-scheduler-ii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Ordered Set
 |  |
 | ------- |
