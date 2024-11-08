@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0456-132-pattern](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0456-132-pattern) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0264-ugly-number-ii) |
 | [0621-task-scheduler](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0621-task-scheduler) |
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0567-permutation-in-string) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Bit Manipulation
@@ -522,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
@@ -539,4 +543,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1734-bank-account-summary-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1734-bank-account-summary-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
