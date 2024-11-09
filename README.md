@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3291-find-if-array-can-be-sorted) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Union Find
 |  |
 | ------- |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Linked List
 |  |
 | ------- |
