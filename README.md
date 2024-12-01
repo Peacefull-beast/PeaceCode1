@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3189-find-champion-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
