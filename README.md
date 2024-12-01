@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2035-count-sub-islands) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2183-minimum-operations-to-convert-number) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2331-intersection-of-multiple-arrays](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2483-task-scheduler-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2483-task-scheduler-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0621-task-scheduler) |
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -246,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -290,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3330-modify-the-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3330-modify-the-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
