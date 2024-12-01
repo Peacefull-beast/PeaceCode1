@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0731-my-calendar-ii) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2118-maximum-earnings-from-taxi) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2586-longest-square-streak-in-an-array) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-longest-well-performing-interval](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1219-longest-well-performing-interval) |
 | [1325-path-with-maximum-probability](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1511-count-number-of-teams) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0539-minimum-time-difference](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0621-task-scheduler) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2118-maximum-earnings-from-taxi) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2331-intersection-of-multiple-arrays) |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0906-walking-robot-simulation) |
 | [1219-longest-well-performing-interval](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1219-longest-well-performing-interval) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1722-throne-inheritance](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1722-throne-inheritance) |
@@ -463,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0042-trapping-rain-water) |
 | [0443-string-compression](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0567-permutation-in-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2228-watering-plants-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2228-watering-plants-ii) |
