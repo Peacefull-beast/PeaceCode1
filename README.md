@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1197-parsing-a-boolean-expression](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2228-watering-plants-ii](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2228-watering-plants-ii) |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Peacefull-beast/PeaceCode1/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Peacefull-beast/PeaceCode1/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
