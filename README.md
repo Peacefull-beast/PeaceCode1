@@ -408,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Peacefull-beast/PeaceCode1/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3394-minimum-array-end) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Peacefull-beast/PeaceCode1/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
 |  |
 | ------- |
